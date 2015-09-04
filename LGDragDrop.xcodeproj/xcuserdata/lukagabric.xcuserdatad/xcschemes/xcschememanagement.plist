@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LGDragDrop.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>LGDragDropSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>41B318F51B998EFA0097D2B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41B319091B998EFA0097D2B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41BAB6981B997120001B31AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41BAB6B11B997120001B31AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41D14D551B999457009691B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
