@@ -14,7 +14,7 @@
 - (IBAction)showDragDropView:(id)sender {
     LGDragDropViewController *dragDropViewController = [LGDragDropViewController new];
     __weak id weakSelf = self;
-    dragDropViewController.gestureCompletion = ^{
+    dragDropViewController.completion = ^{
         ViewController *strongSelf = weakSelf;
         [strongSelf dismissViewControllerAnimated:YES completion:nil];
     };
