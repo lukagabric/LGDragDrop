@@ -12,6 +12,6 @@ typedef void (^CompletionBlock)();
 
 @interface LGDragDropViewController : UIViewController
 
-@property (copy, nonatomic) CompletionBlock gestureCompletion;
+@property (copy, nonatomic) CompletionBlock completion;
 
 @end

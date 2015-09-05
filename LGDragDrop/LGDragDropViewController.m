@@ -65,7 +65,7 @@
 
 #pragma mark - Actions
 
-- (IBAction)dismissAction:(id)sender {
+- (IBAction)dismissAction {
     [self dismissViewControllerAnimated:YES completion:nil];
 }
 
@@ -75,8 +75,8 @@
     }
     else if (self.panGesture.state == UIGestureRecognizerStateEnded) {
         if (self.isGoalReached) {
-            if (self.gestureCompletion) {
-                self.gestureCompletion();
+            if (self.completion) {
+                self.completion();
             }
         }
         else {

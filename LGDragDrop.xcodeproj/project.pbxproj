@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4179E39D1B99969D00B16473 /* arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319201B998F880097D2B5 /* arrow_down.png */; settings = {ASSET_TAGS = (); }; };
-		4179E39E1B99969D00B16473 /* arrow_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319211B998F880097D2B5 /* arrow_down@2x.png */; settings = {ASSET_TAGS = (); }; };
-		4179E39F1B99969D00B16473 /* arrow_down@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319221B998F880097D2B5 /* arrow_down@3x.png */; settings = {ASSET_TAGS = (); }; };
+		4179E39D1B99969D00B16473 /* arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319201B998F880097D2B5 /* arrow_down.png */; };
+		4179E39E1B99969D00B16473 /* arrow_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319211B998F880097D2B5 /* arrow_down@2x.png */; };
+		4179E39F1B99969D00B16473 /* arrow_down@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319221B998F880097D2B5 /* arrow_down@3x.png */; };
 		41B319231B998F880097D2B5 /* arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319201B998F880097D2B5 /* arrow_down.png */; };
 		41B319251B998F880097D2B5 /* arrow_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319211B998F880097D2B5 /* arrow_down@2x.png */; };
 		41B319271B998F880097D2B5 /* arrow_down@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B319221B998F880097D2B5 /* arrow_down@3x.png */; };
@@ -26,8 +26,8 @@
 		41D14D5E1B999457009691B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41D14D5C1B999457009691B7 /* Main.storyboard */; };
 		41D14D601B999457009691B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41D14D5F1B999457009691B7 /* Assets.xcassets */; };
 		41D14D631B999457009691B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41D14D611B999457009691B7 /* LaunchScreen.storyboard */; };
-		41D14D6A1B999481009691B7 /* LGDragDropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D14D681B999481009691B7 /* LGDragDropViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		41D14D6B1B999481009691B7 /* LGDragDropViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41D14D691B999481009691B7 /* LGDragDropViewController.xib */; settings = {ASSET_TAGS = (); }; };
+		41D14D6A1B999481009691B7 /* LGDragDropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D14D681B999481009691B7 /* LGDragDropViewController.swift */; };
+		41D14D6B1B999481009691B7 /* LGDragDropViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41D14D691B999481009691B7 /* LGDragDropViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,8 +90,8 @@
 			isa = PBXGroup;
 			children = (
 				41BAB69B1B997120001B31AE /* LGDragDrop */,
-				41B3191F1B998F880097D2B5 /* Images */,
 				41D14D571B999457009691B7 /* LGDragDropSwift */,
+				41B3191F1B998F880097D2B5 /* Images */,
 				41BAB69A1B997120001B31AE /* Products */,
 			);
 			sourceTree = "<group>";
